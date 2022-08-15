@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: service-devops
-        image: pablomontero03/pmjava:latest
+        image: pablomontero/pmjava:latest
         ports:
         - containerPort: 8080
 ---
